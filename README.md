@@ -9,7 +9,7 @@ ResumeIQ is a full-stack Natural Language Processing (NLP) application built in 
 - 📊 **Resume Quality Scoring**: Evaluates structural completeness across 9 key sections (Projects, Contact, Experience, GitHub, Education, etc.) on a 100-point scale.
 - 💼 **Role Recommender**: Recommends top matching job roles based on candidate skill vectors.
 - 📈 **Visual HTML Reports**: Automatically generates standalone, responsive HTML dashboards with visual meters, skill badges, and improvement tips.
-- 🧪 **Unit Tested**: Backed by 65+ automated unit and integration tests.
+- 
 
 ### 🛠️ Tech Stack & Integrations
 - **Languages**: Python (100% Core Engine), HTML5 & CSS3 (Report Generation), JSON (Taxonomy Data)
